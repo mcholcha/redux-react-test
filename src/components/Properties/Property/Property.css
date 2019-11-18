@@ -1,0 +1,14 @@
+.property {
+    display: flex;
+    padding: 5px 10px;
+}
+
+.property__term {
+    min-width: 100px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.property__description {
+    font-weight: 300;
+}
