@@ -17,10 +17,22 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/qunabucom/react-test",
+  "homepage": "https://mcholcha.github.io/redux-react-test/",
   "devDependencies": {
     "@testing-library/jest-dom": "^4.1.0",
     "@testing-library/react": "^9.1.4",
     "gh-pages": "^2.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">5%",
+      "ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
   }
 }
