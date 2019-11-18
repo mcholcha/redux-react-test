@@ -90,3 +90,7 @@ In this test your task is to display a list of Rick and Morty episodes with each
 * 
 > * next page
 ```
+
+
+### Deploy
+[https://mcholcha.github.io/redux-react-test/](https://mcholcha.github.io/redux-react-test/)
